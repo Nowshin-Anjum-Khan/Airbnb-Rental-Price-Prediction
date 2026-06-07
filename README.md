@@ -29,7 +29,6 @@ This project builds a **machine learning model to predict nightly rental prices 
 |------|------|------|---------|
 | `airbnb_rental_price.ipynb` | Jupyter Notebook | 
 | `Airbnb_Data.csv` | Dataset | 74,111 listings × 29 features |
-| `Nowshin_ML_Project_Presentation.pptx` | Presentation slide |
 | `README.md` | Documentation | Instructions |
 
 ---
